@@ -1,0 +1,8 @@
+NFault,runTime(ms),energy,seconds(power),powerFileName
+1,137295.0,29257.1,142,Quasi_1_12.csv
+32,177434.0,37017.6,182,Quasi_32_8.csv
+8,145907.0,30692.6,151,Quasi_8_5.csv
+24,151781.0,31801.6,156,Quasi_24_6.csv
+16,146553.0,30870.5,151,Quasi_16_3.csv
+2,138176.0,29478.9,143,Quasi_2_1.csv
+0,126726.0,27308.9,131,Quasi_0_1.csv

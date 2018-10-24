@@ -1,0 +1,17 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input image  = 512 x 512 int 
+input image size = 1048576 bytes 
+
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Ellesmere Device ID is 0x21aaae0
+Executing kernel for 1 iterations
+-------------------------------------------
+Naive kernel: 
+localThreads = 128 , globalThreads = 262144 
+# degraded WIs = 0  out of 262144 WIs
+
+Total kernel execution time = 134184.501 ms
+Passed!
+

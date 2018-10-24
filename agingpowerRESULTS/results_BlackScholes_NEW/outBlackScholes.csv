@@ -1,0 +1,8 @@
+NFault,runTime(ms),energy,seconds(power),powerFileName
+0,132652.0,31240.2,137,BlackScholes_0_1.csv
+1,136994.0,32021.9,141,BlackScholes_1_4.csv
+2,137098.0,31961.5,142,BlackScholes_2_9.csv
+8,137249.0,32008.8,142,BlackScholes_8_3.csv
+16,137489.0,32087.3,143,BlackScholes_16_1.csv
+24,142600.0,32897.4,147,BlackScholes_24_11.csv
+32,142231.0,32787.3,147,BlackScholes_32_9.csv

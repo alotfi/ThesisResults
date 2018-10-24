@@ -1,0 +1,8 @@
+NFault,runTime(ms),energy,seconds(power),powerFileName
+1,139605.0,30441.6,144,Matrix_1_2.csv
+24,139559.0,30563.5,144,Matrix_24_8.csv
+16,138903.0,30338.1,144,Matrix_16_14.csv
+8,139325.0,30344.8,144,Matrix_8_7.csv
+0,139146.0,30114.3,143,Matrix_0_1.csv
+2,139685.0,30418.1,144,Matrix_2_1.csv
+32,139806.0,31030.2,144,Matrix_32_10.csv

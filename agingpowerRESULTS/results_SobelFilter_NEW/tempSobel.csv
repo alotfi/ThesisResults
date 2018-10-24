@@ -1,0 +1,8 @@
+NFault,runTime(ms),energy,seconds(power),powerFileName
+0,136093.0,28785.1,140,Sobel_0_5.csv
+24,147023.0,31477.4,152,Sobel_24_13.csv
+8,144115.0,30315.0,149,Sobel_8_5.csv
+16,143430.0,30199.2,148,Sobel_16_10.csv
+1,136441.0,28628.2,141,Sobel_1_7.csv
+32,146678.0,30982.5,150,Sobel_32_10.csv
+2,140616.0,29403.0,145,Sobel_2_5.csv

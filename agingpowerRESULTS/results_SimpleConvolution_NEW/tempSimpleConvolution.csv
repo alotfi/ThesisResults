@@ -1,0 +1,8 @@
+NFault,runTime(ms),energy,seconds(power),powerFileName
+1,129535.0,27140.1,134,SimpleConvolution_1_2.csv
+32,140775.0,28713.5,145,SimpleConvolution_32_5.csv
+8,129626.0,27127.6,133,SimpleConvolution_8_15.csv
+24,140605.0,28924.7,144,SimpleConvolution_24_2.csv
+16,129636.0,27065.3,133,SimpleConvolution_16_12.csv
+2,129527.0,27217.4,134,SimpleConvolution_2_8.csv
+0,121922.0,25873.7,126,SimpleConvolution_0_15.csv

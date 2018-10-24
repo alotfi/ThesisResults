@@ -1,0 +1,8 @@
+NFault,runTime(ms),energy,seconds(power),powerFileName
+0,133881.0,28293.8,138,Floyd_0_2.csv
+1,133184.0,28136.8,138,Floyd_1_15.csv
+2,133336.0,28143.6,138,Floyd_2_2.csv
+8,133516.0,28205.4,138,Floyd_8_14.csv
+16,133997.0,28201.5,138,Floyd_16_10.csv
+24,146453.0,30450.2,150,Floyd_24_3.csv
+32,146321.0,30388.6,150,Floyd_32_10.csv
