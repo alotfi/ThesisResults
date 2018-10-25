@@ -1,0 +1,20 @@
+Platform 0 : Advanced Micro Devices, Inc.
+Platform 1 : Advanced Micro Devices, Inc.
+input image  = 36 x 256 chars 
+input image size = 9216 bytes 
+
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Ellesmere Device ID is 0x106f9d0
+MAX_COMPUTE_UNIT =  36
+OpenCL 1.2 AMD-APP (2671.3)
+Executing kernel for 1 iterations
+-------------------------------------------
+Naive kernel: 
+localThreads = 256 , globalThreads = 9216 
+# degraded WIs = 0  out of 9216 WIs
+
+Total kernel execution time = 8295.08368 ms
+Passed!
+

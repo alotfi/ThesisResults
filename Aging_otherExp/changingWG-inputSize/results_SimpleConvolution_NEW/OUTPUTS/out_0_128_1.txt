@@ -1,0 +1,21 @@
+Platform 0 : Advanced Micro Devices, Inc.
+Platform 1 : Advanced Micro Devices, Inc.
+input length = 4 x 9 int 
+input length = 64 x 64 int 
+input size = 16384 bytes 
+mask size = 36 bytes 
+faulty element = 
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Ellesmere Device ID is 0xd6ae30
+Executing kernel for 1 iterations
+-------------------------------------------
+Naive kernel: 
+globalThreads = 4096, localThreads = 128  
+# degraded WIs = 0 
+degradationStatusBuffer size = 4096 4 1 
+
+Total kernel execution time = 2729.938 ms
+Passed!
+

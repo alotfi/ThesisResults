@@ -1,0 +1,26 @@
+Platform 0 : Advanced Micro Devices, Inc.
+Platform 1 : Advanced Micro Devices, Inc.
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Ellesmere Device ID is 0xf39f60
+Selecting scalar kernel
+nVectors = 128 
+input length = 65536 ints
+input size = 262144 bytes
+faulty element = (19 6)   faulty element = (19 8)   faulty element = (19 10)   faulty element = (19 12)   
+Executing kernel for 1 iterations
+-------------------------------------------
+vector width = 1 
+ redundant wi = 10 
+Aging enabled kernel: 
+globalThreads = 282624, localThreads = 138  
+# degraded WIs = 570 
+
+Total kernel execution time = 23393.263 ms
+Passed!
+
+
+| Elements | Setup time (sec) | Avg. kernel time (sec) | Elements/sec |
+|----------|------------------|------------------------|--------------|
+| 262144   | 0.176752         | 23.3964                | 11204.5      |
