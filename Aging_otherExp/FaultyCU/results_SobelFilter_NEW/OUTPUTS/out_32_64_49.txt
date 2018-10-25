@@ -1,0 +1,22 @@
+Platform 0 : Advanced Micro Devices, Inc.
+Platform 1 : Advanced Micro Devices, Inc.
+input image  = 512 x 512 chars 
+input image size = 262144 bytes 
+faulty element = (19 6)   faulty element = (19 9)   faulty element = (19 14)   faulty element = (19 17)   faulty element = (19 22)   faulty element = (19 26)   faulty element = (19 28)   faulty element = (19 31)   faulty element = (19 34)   faulty element = (19 38)   faulty element = (19 43)   faulty element = (19 47)   faulty element = (19 52)   faulty element = (19 57)   faulty element = (19 61)   faulty element = (19 63)   faulty element = (19 3)   faulty element = (19 5)   faulty element = (19 7)   faulty element = (19 12)   faulty element = (19 14)   faulty element = (19 19)   faulty element = (19 22)   faulty element = (19 26)   faulty element = (19 30)   faulty element = (19 34)   faulty element = (19 39)   faulty element = (19 44)   faulty element = (19 49)   faulty element = (19 52)   faulty element = (19 56)   faulty element = (19 60)   
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Ellesmere Device ID is 0xb3e9d0
+MAX_COMPUTE_UNIT =  36
+OpenCL 1.2 AMD-APP (2671.3)
+Executing kernel for 1 iterations
+-------------------------------------------
+redundant wi = 1 
+globalThreads 262144 / wic = 64 
+Aging enabled kernel: 
+globalThreads = 266240, localThreads = 65  
+# degraded WIs = 114  out of 266240 WIs
+
+Total kernel execution time = 1787.40720 ms
+Passed!
+
