@@ -1,0 +1,20 @@
+Platform 0 : Advanced Micro Devices, Inc.
+Platform 1 : Advanced Micro Devices, Inc.
+Atieh : 1
+input image  = 512 x 512 chars 
+input image size = 262144 bytes 
+faulty element = (19 6)   faulty element = (19 8)   faulty element = (19 10)   faulty element = (19 12)   faulty element = (19 14)   faulty element = (19 15)   faulty element = (19 16)   faulty element = (19 18)   faulty element = (19 20)   faulty element = (19 21)   faulty element = (19 23)   faulty element = (19 24)   faulty element = (19 26)   faulty element = (19 28)   faulty element = (19 29)   faulty element = (19 30)   faulty element = (19 31)   faulty element = (19 32)   faulty element = (19 33)   faulty element = (19 35)   faulty element = (19 36)   faulty element = (19 38)   faulty element = (19 40)   faulty element = (19 41)   faulty element = (19 42)   faulty element = (19 43)   faulty element = (19 45)   faulty element = (19 47)   faulty element = (19 49)   
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Ellesmere Device ID is 0x19bf9d0
+MAX_COMPUTE_UNIT =  36
+OpenCL 1.2 AMD-APP (2671.3)
+Executing kernel for 1 iterations
+-------------------------------------------
+redundant wi = 171 
+Aging enabled kernel: 
+globalThreads = 582192, localThreads = 311  
+# degraded WIs = 7540  out of 582192 WIs
+Error: clEnqueueNDRangeKernel failed. Error code : CL_INVALID_WORK_GROUP_SIZE
+Location : /opt/AMDAPPSDK-2.9-1/samples/opencl/cl/SobelFilter/SobelFilter.cpp:583

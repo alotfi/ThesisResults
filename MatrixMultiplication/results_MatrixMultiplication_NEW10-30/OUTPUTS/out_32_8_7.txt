@@ -1,0 +1,18 @@
+Platform 0 : Advanced Micro Devices, Inc.
+Platform 1 : Advanced Micro Devices, Inc.
+faulty element = (23 4)   faulty element = (23 9)   faulty element = (23 13)   faulty element = (23 16)   faulty element = (23 21)   faulty element = (23 26)   faulty element = (23 28)   faulty element = (23 30)   faulty element = (23 35)   faulty element = (23 40)   faulty element = (23 44)   faulty element = (23 46)   faulty element = (23 50)   faulty element = (23 52)   faulty element = (23 55)   faulty element = (23 58)   faulty element = (23 61)   faulty element = (23 1)   faulty element = (23 4)   faulty element = (23 6)   faulty element = (23 11)   faulty element = (23 14)   faulty element = (23 17)   faulty element = (23 21)   faulty element = (23 24)   faulty element = (23 29)   faulty element = (23 34)   faulty element = (23 39)   faulty element = (23 44)   faulty element = (23 49)   faulty element = (23 53)   faulty element = (23 58)   
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Ellesmere Device ID is 0x1dcaf60
+Kernel global is using! 
+Executing kernel for 1 iterations
+-------------------------------------------
+redundant wi = 64 
+Aging enabled kernel: 
+globalThreads = 524288, localThreads = 128  
+# degraded WIs = 7296  out of 524288 WIs
+
+Total kernel execution time = 6603.45152 ms
+Passed!
+

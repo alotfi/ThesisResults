@@ -1,0 +1,17 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input length = 1024 float 
+input size = 4096 Bytes 
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Cypress Device ID is 0x25f4340
+input length = 1024 float 
+input size = 4096 Bytes 
+Executing kernel for 1 iterations
+-------------------------------------------
+Naive kernel: 
+globalThreads = 512, localThreads = 32 , maxWorkItemSize = 256, maxWorkGroupSize = 256 
+
+Total kernel execution time = 0.050 ms
+Passed!
+

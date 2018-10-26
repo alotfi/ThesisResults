@@ -1,0 +1,21 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input length = 524288 float 
+input size = 2097152 Bytes 
+
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Ellesmere Device ID is 0xd1ccc0
+input length = 524288 float 
+input size = 2097152 Bytes 
+
+Executing kernel for 1 iterations
+-------------------------------------------
+work_item_count = 128 
+Naive kernel: 
+globalThreads = 262144, localThreads = 128 , maxWorkItemSize = 1024, maxWorkGroupSize = 256 
+# degraded WIs = 0  out of 262144 WIs
+
+Total kernel execution time = 142619.932 ms
+Passed!
+

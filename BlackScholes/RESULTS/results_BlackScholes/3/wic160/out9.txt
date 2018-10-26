@@ -1,0 +1,18 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input   = 160 x 160 floats 
+input size = 409600 bytes 
+faulty element = (1 15) 
+faulty element = (3 13) 
+faulty element = (5 4) 
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Cypress Device ID is 0x1390620
+Executing kernel for 1 iterations
+-------------------------------------------
+redundant wi = 11 
+Aging enabled kernel: 
+localThreads = 170, work_item_count = 160, globalThreads = 27360 
+# degraded WIs = 248 
+Error: clEnqueueNDRangeKernel failed. Error code : CL_INVALID_WORK_GROUP_SIZE
+Location : /opt/AMDAPP/samples/opencl/cl/BlackScholes/BlackScholes.cpp:592

@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    -m64    CMakeFiles/QuasiRandomSequence.dir/QuasiRandomSequence.cpp.o CMakeFiles/QuasiRandomSequence.dir/SobolPrimitives.cpp.o  -o bin/x86_64/Release/QuasiRandomSequence -rdynamic /opt/AMDAPPSDK-2.9-1/lib/x86_64/libOpenCL.so -lrt -Wl,-rpath,/opt/AMDAPPSDK-2.9-1/lib/x86_64 

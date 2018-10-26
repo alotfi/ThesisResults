@@ -1,0 +1,41 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input length = 1030 x 10 int 
+input length = 1030 x 10 int 
+input size = 41200 bytes 
+faulty element = (11 7) 
+faulty element = (13 6) 
+faulty element = (15 4) 
+faulty element = (11 9) 
+faulty element = (13 7) 
+faulty element = (15 5) 
+faulty element = (11 10) 
+faulty element = (13 9) 
+faulty element = (15 7) 
+faulty element = (11 12) 
+faulty element = (13 10) 
+faulty element = (15 9) 
+faulty element = (11 13) 
+faulty element = (13 11) 
+faulty element = (15 10) 
+faulty element = (11 15) 
+faulty element = (13 12) 
+faulty element = (15 11) 
+faulty element = (11 1) 
+faulty element = (13 13) 
+faulty element = (15 13) 
+faulty element = (11 2) 
+faulty element = (13 14) 
+faulty element = (15 15) 
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Cypress Device ID is 0x228b6c0
+Executing kernel for 1 iterations
+-------------------------------------------
+Naive kernel: 
+globalThreads = 10300, localThreads = 103  
+# degraded WIs = 745 
+
+Total kernel execution time = 0.069 ms
+Passed!
+

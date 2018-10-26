@@ -1,0 +1,20 @@
+Platform 0 : Advanced Micro Devices, Inc.
+Platform 1 : Advanced Micro Devices, Inc.
+input   = 512 x 512 floats 
+input size = 4194304 bytes 
+faulty element = (31 59)   faulty element = (31 61)   faulty element = (31 62)   faulty element = (31 63)   faulty element = (31 0)   faulty element = (31 2)   faulty element = (31 3)   faulty element = (31 5)   faulty element = (31 6)   faulty element = (31 8)   faulty element = (31 9)   faulty element = (31 11)   faulty element = (31 12)   faulty element = (31 13)   faulty element = (31 14)   faulty element = (31 15)   faulty element = (31 17)   faulty element = (31 18)   
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Ellesmere Device ID is 0x153abc0
+Executing kernel for 1 iterations
+-------------------------------------------
+redundant wi = 50 
+Aging enabled kernel: 
+localThreads = 178, work_item_count = 128, globalThreads = 364544 
+# degraded WIs = 2850 
+
+Total kernel execution time = 675.177 ms
+average time = 0.000000
+Passed!
+

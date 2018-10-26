@@ -1,0 +1,19 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input image  = 40 x 256 chars 
+input image size = 10240 bytes 
+faulty element = (3 6)   faulty element = (5 3)   faulty element = (7 15)   faulty element = (3 7)   faulty element = (5 4)   faulty element = (7 1)   faulty element = (3 9)   faulty element = (5 5)   faulty element = (7 3)   faulty element = (3 10)   faulty element = (5 7)   faulty element = (7 5)   
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Cypress Device ID is 0x2411450
+MAX_COMPUTE_UNIT =  20
+OpenCL 1.2 AMD-APP (923.1)
+Executing kernel for 1 iterations
+-------------------------------------------
+Naive kernel: 
+localThreads = 128 , globalThreads = 10240 
+# degraded WIs = 384  out of 10240 WIs
+
+Total kernel execution time = 0.060 ms
+Passed!
+

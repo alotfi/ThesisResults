@@ -1,0 +1,17 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input length = 560 x 10 int 
+input size = 22400 bytes 
+faulty element = (4 8) 
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Cypress Device ID is 0x15876c0
+Executing kernel for 1 iterations
+-------------------------------------------
+Naive kernel: 
+globalThreads = 5600, localThreads = 56  
+# degraded WIs = 15 
+
+Total kernel execution time = 0.014 ms
+Passed!
+

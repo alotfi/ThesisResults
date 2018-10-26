@@ -1,0 +1,43 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input image  = 112 x 112 int 
+input image size = 50176 bytes 
+faulty element = (17 0) 
+faulty element = (18 4) 
+faulty element = (0 14) 
+faulty element = (17 1) 
+faulty element = (18 6) 
+faulty element = (0 15) 
+faulty element = (17 3) 
+faulty element = (18 7) 
+faulty element = (0 0) 
+faulty element = (17 4) 
+faulty element = (18 9) 
+faulty element = (0 2) 
+faulty element = (17 5) 
+faulty element = (18 10) 
+faulty element = (0 4) 
+faulty element = (17 6) 
+faulty element = (18 12) 
+faulty element = (0 6) 
+faulty element = (17 7) 
+faulty element = (18 13) 
+faulty element = (0 8) 
+faulty element = (17 8) 
+faulty element = (18 15) 
+faulty element = (0 9) 
+faulty element = (2 6) 
+faulty element = (3 5) 
+faulty element = (4 14) 
+faulty element = (6 12) 
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Cypress Device ID is 0x1135510
+Executing kernel for 1 iterations
+-------------------------------------------
+redundant wi = 112 
+Aging enabled kernel: 
+globalThreads = 19712, localThreads = 308  
+# degraded WIs = 1803  out of 19712 WIs
+Error: clEnqueueNDRangeKernel failed. Error code : CL_INVALID_WORK_ITEM_SIZE
+Location : /opt/AMDAPP/samples/opencl/cl/FloydWarshall/FloydWarshall.cpp:525

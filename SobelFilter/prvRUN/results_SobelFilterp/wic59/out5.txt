@@ -1,0 +1,18 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input image  = 59 x 120 chars 
+input image size = 7080 bytes 
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Cypress Device ID is 0x9e0270
+MAX_COMPUTE_UNIT =  20
+OpenCL 1.2 AMD-APP (923.1)
+Executing kernel for 1 iterations
+-------------------------------------------
+redundant wi = 4 
+Aging enabled kernel: 
+globalThreads = 7560, localThreads = 63  
+
+Total kernel execution time = 0.077 ms
+Passed!
+

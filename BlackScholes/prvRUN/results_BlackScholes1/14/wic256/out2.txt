@@ -1,0 +1,19 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input   = 256 x 256 floats 
+input size = 1048576 bytes 
+faulty element = (12 0)   faulty element = (13 6)   faulty element = (14 8)   faulty element = (12 2)   faulty element = (13 7)   faulty element = (14 10)   faulty element = (12 3)   faulty element = (13 9)   faulty element = (14 12)   faulty element = (12 4)   faulty element = (13 11)   faulty element = (14 13)   faulty element = (12 5)   faulty element = (13 12)   
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Cypress Device ID is 0x15b7620
+Executing kernel for 1 iterations
+-------------------------------------------
+Naive kernel: 
+localThreads = 256 , globalThreads = 65536 
+# degraded WIs = 2912 
+
+Total kernel execution time = 0.390 ms
+CallPrice: host vs device  = 1.024260    1.024261 
+put price: host vs device = 0.068889     0.068890 
+Passed!
+

@@ -1,0 +1,20 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input image  = 40 x 256 chars 
+input image size = 10240 bytes 
+faulty element = (3 6)   faulty element = (5 3)   faulty element = (7 15)   faulty element = (3 7)   
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Cypress Device ID is 0x1bf9450
+MAX_COMPUTE_UNIT =  20
+OpenCL 1.2 AMD-APP (923.1)
+Executing kernel for 1 iterations
+-------------------------------------------
+redundant wi = 18 
+Aging enabled kernel: 
+globalThreads = 11680, localThreads = 146  
+# degraded WIs = 144  out of 11680 WIs
+
+Total kernel execution time = 0.080 ms
+Passed!
+

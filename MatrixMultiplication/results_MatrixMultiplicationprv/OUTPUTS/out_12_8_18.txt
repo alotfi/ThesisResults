@@ -1,0 +1,16 @@
+Platform 0 : Advanced Micro Devices, Inc.
+Platform 1 : Advanced Micro Devices, Inc.
+faulty element = (34 23)   faulty element = (34 26)   faulty element = (34 29)   faulty element = (34 34)   faulty element = (34 36)   faulty element = (34 41)   faulty element = (34 43)   faulty element = (34 47)   faulty element = (34 52)   faulty element = (34 55)   faulty element = (34 60)   faulty element = (34 63)   
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Ellesmere Device ID is 0x158ff60
+Kernel global is using! 
+Executing kernel for 1 iterations
+-------------------------------------------
+redundant wi = 12 
+Aging enabled kernel: 
+globalThreads = 77824, localThreads = 76  
+# degraded WIs = 336  out of 77824 WIs
+
+Total kernel execution time = 624.71520 ms

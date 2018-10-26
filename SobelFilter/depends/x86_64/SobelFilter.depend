@@ -1,0 +1,3 @@
+build/debug/x86_64//SobelFilter.o: ./SobelFilter.hpp
+build/debug/x86_64//SobelFilter.o: SobelFilter.cpp
+build/debug/x86_64//SobelFilter.o: ../../../../../samples/opencl/SDKUtil/include/SDKBitMap.hpp

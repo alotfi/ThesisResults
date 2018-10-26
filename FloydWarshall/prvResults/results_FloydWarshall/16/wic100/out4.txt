@@ -1,0 +1,32 @@
+Platform 0 : Advanced Micro Devices, Inc.
+input image  = 80 x 80 int 
+input image size = 25600 bytes 
+faulty element = (18 8) 
+faulty element = (0 5) 
+faulty element = (1 6) 
+faulty element = (18 10) 
+faulty element = (0 7) 
+faulty element = (1 8) 
+faulty element = (18 11) 
+faulty element = (0 9) 
+faulty element = (1 9) 
+faulty element = (18 13) 
+faulty element = (0 11) 
+faulty element = (1 10) 
+faulty element = (18 14) 
+faulty element = (0 13) 
+faulty element = (1 12) 
+faulty element = (18 15) 
+Platform found : Advanced Micro Devices, Inc.
+
+Selected Platform Vendor : Advanced Micro Devices, Inc.
+Device 0 : Cypress Device ID is 0xd84510
+Executing kernel for 1 iterations
+-------------------------------------------
+Naive kernel: 
+localThreads = 100 , globalThreads = 6400 
+# degraded WIs = 348  out of 6400 WIs
+
+Total kernel execution time = 1.980 ms
+Passed!
+
