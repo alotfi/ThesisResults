@@ -1,0 +1,13 @@
+NFault,runTime(ms),energy,seconds(power),powerFileName
+0,140001.0,29535.7,144,FastWalsh_0_3.csv
+1,151436.0,31851.0,156,FastWalsh_1_6.csv
+2,151198.0,31880.7,156,FastWalsh_2_5.csv
+3,151490.0,31940.7,156,FastWalsh_3_10.csv
+4,151936.0,31951.4,156,FastWalsh_4_10.csv
+8,151779.0,32067.7,156,FastWalsh_8_3.csv
+12,153538.0,32145.3,158,FastWalsh_12_9.csv
+16,153820.0,32012.7,158,FastWalsh_16_8.csv
+20,156751.0,32460.5,161,FastWalsh_20_8.csv
+24,158938.0,32670.2,163,FastWalsh_24_3.csv
+28,158873.0,32674.1,163,FastWalsh_28_3.csv
+32,161552.0,32916.9,166,FastWalsh_32_5.csv
